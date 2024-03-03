@@ -1,4 +1,4 @@
-<div align='center'><img src='https://github.com/demetrisdev/E-Commerce-Shop-Redux/assets/112802137/518cef10-c2fd-45e0-bf5c-e3e55949af49'/></div>
+<div align='center'><img src='https://github.com/demetrisdev/E-Commerce-Shop-Redux/assets/112802137/05e59f57-15cd-4db4-a9d4-b9656eda8579'/></div>
 
 <h2>About the project</h2>
 
