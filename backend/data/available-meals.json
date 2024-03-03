@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Organic applesauce",
+    "price": "3.25",
+    "description": "We use only apples from controlled organic cultivation for our organic applesauce. The applesauce is then put into the jar without added sugar or other preservatives.",
+    "image": "images/applesauce.webp"
+  },
+  {
+    "id": "m2",
+    "name": "Original Barbecue Sauce",
+    "price": "6.55",
+    "description": "Organic BBQ Sauce has a smoky flavor made with organic apple cider vinegar, Dijon mustard and more. Delicious with steak, hamburgers, ribs, chicken or fish. An ideal marinade and great for dipping.",
+    "image": "images/bbq_sauce.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Gluten Free Cranberry Bar",
+    "price": "2.17",
+    "description": "This bar made with sweet tangy cranberries and mellow almonds turned out to be one of our most popular all-time flavors.",
+    "image": "images/bio_bar.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Organic chocolate, 85% dark",
+    "price": "5.90",
+    "description": "E dark, floral Chocolates, made from rare Nacional Arrriba cocoa from Ecuador and preserving the biodiverse ecosystem of the Chocó rainforest in Esmeraldas province.",
+    "image": "images/bio_chocolate.webp"
+  },
+  {
+    "id": "m5",
+    "name": "Oragnic Peach Jam",
+    "price": "6.15",
+    "description": "Bursting with juicy, sun-ripened peaches, this special jam has a homemade quality.",
+    "image": "images/bio_jam.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Organic Extra Virgin Olive Oil",
+    "price": "10.99",
+    "description": "Our Olive Oil blend is made with olives harvested early in the season in the mountainous natural park areas of Andalusia, Spain.",
+    "image": "images/olive_oil_bio.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Organic Peanut Butter",
+    "price": "5.99",
+    "description": "All-natural peanut butter made with our special blend of perfectly roasted peanuts and just a tiny bit of salt, that’s it.",
+    "image": "images/bio_peanutbutter.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Bio Marinara Sauce",
+    "price": "4.35",
+    "description": "Organic diced tomatoes in organic tomato juice, organic basil, sea salt, organic dried onions, organic dried garlic, organic dried oregano.",
+    "image": "images/bio_tomatto_sauce.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Honey Comb",
+    "price": "13.99",
+    "description": "Foraged from flowers by busy bees, this is honey in its rawest, purest form.",
+    "image": "images/honey_comb.webp"
+  },
+  {
+    "id": "m10",
+    "name": "Bio Ketchup",
+    "price": "5.99",
+    "description": "Full of the classic taste you remember, tidied up with high-quality ingredients.",
+    "image": "images/ketchap_bio.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Organic Olive Soap",
+    "price": "4.99",
+    "description": "Cleanse & moisturize naturally with this traditionally crafted, 86% Pure Olive Oil soap - perfect for all skin types.",
+    "image": "images/olive_soap.webp"
+  },
+  {
+    "id": "m12",
+    "name": "Organic Honey",
+    "price": "8.99",
+    "description": "Delicate fruity taste and mild tangy finish. This rare honey is perfect for anything you use honey for like drizzling on fruit and yogurt and in herbal and green teas.",
+    "image": "images/raw_honey.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Dry Mushrooms",
+    "price": "12.99",
+    "description": "The organic certified high-quality Dried Mixed Wild Mushrooms have a powerful aroma and fruity & earthy flavour.",
+    "image": "images/dry_mashrooms.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Organic Sesame Tahini",
+    "price": "7.99",
+    "description": "Our tahini is made only with the finest selected sesame seeds. These are roasted and stone ground to obtain a delectable and creamy texture.",
+    "image": "images/sesame_seed_paste.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Organic, Strawberry Jam",
+    "price": "5.99",
+    "description": "The main ingredient in this peachy-pink spread is organic strawberries, ensuring it has the sunbaked flavor of a ripe, summer’s day.",
+    "image": "images/strawberry_jam.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Organic Black Olive Spread",
+    "price": "4.99",
+    "description": "The olive paste combines the finest Kalamata olives with high-quality olive oil and selected spices.",
+    "image": "images/olive_paste.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Oat Cookies",
+    "price": "13.99",
+    "description": "Oat cookies are the absolute classic in the biscuit game. What tastes better than crispy, sweet cereal biscuits?",
+    "image": "images/cookies.webp"
+  },
+  {
+    "id": "m18",
+    "name": "Organic Saffron",
+    "price": "14.99",
+    "description": "This saffron of the highest quality and aromatic is grown, processed and packed in the La Mancha region of Spain.",
+    "image": "images/safron.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Gluten Free Granola",
+    "price": "6.99",
+    "description": "This is a granola made by methods and practices worthy of an explanation. What makes it so special? The whole grain oats we use in this granola are gluten free.",
+    "image": "images/granola.webp"
+  },
+  {
+    "id": "m20",
+    "name": "Pickled Cucumbers Organic",
+    "price": "3.99",
+    "description": "Delicious organic picked cucumbers like no other. Packed full of a secret combo ingredients such as dill, chilli and more.",
+    "image": "images/pickles.jpg"
+  }
+]
