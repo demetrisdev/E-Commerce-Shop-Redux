@@ -11,7 +11,7 @@
 <h3>Build with:</h3>
 
 » Vanilla CSS <br>
-» React <br
+» React <br>
 » Redux <br>
 » Node.js <br>
 » Express.js
