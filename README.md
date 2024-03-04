@@ -2,7 +2,7 @@
 
 <h2>About the project</h2>
 
-<p>This is a fake website build using <strong>React, Redux, Express.js and Node.js</strong>. 
+<p>This is a website build using <strong>React, Redux, Express.js and Node.js</strong>. 
   It incorporates a store managing system using <strong>Redux</strong>, as well as the use of Modals for important pop-up messages. 
   For the backend I haven't implemented a connection to the database. The orders made by the users are being stored localy.
   It is a <strong>fully responsive Website!</strong>
